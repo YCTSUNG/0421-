@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Fender Custom Shop 59 Stratocaster",
+        "category": ["pop","jazz","anison","others"],
+        "filter": false
+    },
+    {
+        "name": "Gibson Custom 1968 Les Paul Custom Reissue",
+        "category": ["hr/hm","anison"],
+        "filter": false
+    },
+    {
+        "name": "PRS 35th Anniversary Custom 24 10 Top",
+        "category": ["pop", "anison","hr/hm","others"],
+        "filter": false
+    },
+    {
+        "name": "Gretsch G6119T-65KA",
+        "category": ["jazz","others"],
+        "filter": false
+    },
+    {
+        "name": "ESP HORIZON-CTM NT/FM",
+        "category": ["hr/hm","anison","jazz"],
+        "filter": false
+    },
+    {
+        "name": "J.Custom RG8570Z",
+        "category": ["pop","hr/hm","anison","others"],
+        "filter": false
+    },
+    {
+        "name": "Gibson Custom Shop 1959 ES-355",
+        "category": ["jazz","others"],
+        "filter": false
+    },
+    {
+        "name": "Fender Custom Shop / Master Built 1952 Telecaster",
+        "category": ["pop","anison","jazz","others"],
+        "filter": false
+    }
+   
+]
