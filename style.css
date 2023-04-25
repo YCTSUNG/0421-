@@ -12,7 +12,10 @@ body {
     padding: 20px;
     text-align: center;
     background-color: rgb(220, 212, 207);
-    box-shadow: 0px 0px 50px 5px gold;
+    box-shadow: 0px 0px 60px 6px whitesmoke;
+    border-width: 50px;
+    border-color: black beige;
+    border-style: solid;
   }
   
   h3 {
@@ -52,7 +55,7 @@ body {
   }
   
   
-  button[type="button"] {
+  button{
     padding: 10px 20px;
     background-color: #007bff;
     color: #fff;
@@ -63,8 +66,8 @@ body {
     transition: background-color 0.3s ease;
   }
   
-  button[type="button"]:hover {
-    background-color: rgb(11, 2, 88);
+  button:hover {
+    background-color:black;
     color: gold;
   }
   

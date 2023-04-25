@@ -6,12 +6,12 @@
     },
     {
         "name": "Gibson Custom 1968 Les Paul Custom Reissue",
-        "category": ["hr/hm","anison"],
+        "category": ["hrhm","anison"],
         "filter": false
     },
     {
         "name": "PRS 35th Anniversary Custom 24 10 Top",
-        "category": ["pop", "anison","hr/hm","others"],
+        "category": ["pop", "anison","hrhm","others"],
         "filter": false
     },
     {
@@ -21,12 +21,12 @@
     },
     {
         "name": "ESP HORIZON-CTM NT/FM",
-        "category": ["hr/hm","anison","jazz"],
+        "category": ["hrhm","anison","jazz"],
         "filter": false
     },
     {
         "name": "J.Custom RG8570Z",
-        "category": ["pop","hr/hm","anison","others"],
+        "category": ["pop","hrhm","anison","others"],
         "filter": false
     },
     {
